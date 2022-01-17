@@ -1,7 +1,7 @@
 # KPMG-Data-Analystics
 Virtual Experience Program
 
-## Backgroud Information
+## Backgroud Information on the task
 
 **Sprocket Central Pty Ltd**, a medium size bikes & cycling accessories organisation, has approached __Tony Smith__ (Partner) in KPMG’s Lighthouse & Innovation Team. Sprocket Central Pty Ltd  is keen to learn more about KPMG’s expertise in its Analytics, Information & Modelling team. 
 
@@ -17,3 +17,5 @@ The client provided KPMG with 3 datasets:
 * Customer Addresses
 * Transactions data in the past 3 months
 You decide to start the preliminary data exploration and identify ways to improve the quality of Sprocket Central Pty Ltd’s data.
+
+## Here is the task
