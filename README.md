@@ -23,6 +23,7 @@ Manager asked to review the data quality to ensure that it is ready for our anal
 
 **Data quality framework is attached as a guideline:**
 Below is a list of the Data Quality dimensions our team may use to evaluate a dataset.
-![image](https://user-images.githubusercontent.com/86195479/149863951-ddeea7a7-97d0-4c8d-af2a-19d3c90fd2d9.png)
+
+<img src="https://user-images.githubusercontent.com/86195479/149863951-ddeea7a7-97d0-4c8d-af2a-19d3c90fd2d9.png" width="300" height="350" />
 
 
