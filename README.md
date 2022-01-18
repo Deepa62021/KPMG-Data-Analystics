@@ -19,3 +19,10 @@ The client provided KPMG with 3 datasets:
 You decide to start the preliminary data exploration and identify ways to improve the quality of Sprocket Central Pty Ltd’s data.
 
 ## Here is the task
+Manager asked to review the data quality to ensure that it is ready for our analysis. Remember to take note of any assumptions or issues we need to go back to the client on. As well as recommendations going forward to mitigate current data quality concerns.
+
+**Data quality framework is attached as a guideline:**
+Below is a list of the Data Quality dimensions our team may use to evaluate a dataset.
+![image](https://user-images.githubusercontent.com/86195479/149863951-ddeea7a7-97d0-4c8d-af2a-19d3c90fd2d9.png)
+
+
